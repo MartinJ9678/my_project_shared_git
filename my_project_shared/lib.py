@@ -1,2 +1,3 @@
 def hello_world():
-    return "hello my dear"
+    prenom = input("Your Name ?")
+    return f"hello {prenom} give me 5 euros right now."
